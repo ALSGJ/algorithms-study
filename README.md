@@ -4,7 +4,7 @@
 * Tommy(BE/Java/Python)
 * Sally(BE/Java/Python)
 * Suyeon Jin(BE/Java)
-* saltwoodYJ()
+* saltwoodYJ(BE/Python)
 
 ## 알고리즘 문제 선정 방식 🤔
 알고리즘은 진행하는 팀원의 수준에 맞게 **백준, 프로그래머스**를 기준으로 같이 협의하여 선정합니다.
