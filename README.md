@@ -3,7 +3,7 @@
 ## 🙋🏻‍♀️멤버🙋
 * Tommy(BE/Java/Python)
 * Sally(BE/Java/Python)
-* Suyeon Jin()
+* Suyeon Jin(BE/Java)
 * saltwoodYJ()
 
 ## 알고리즘 문제 선정 방식 🤔
