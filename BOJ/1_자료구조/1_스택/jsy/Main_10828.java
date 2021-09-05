@@ -12,12 +12,12 @@ public class Main_10828 {
         Stack<Integer> stack = new Stack<>();
         for (int i = 0; i < N; i++) {
             String[] line = br.readLine().split(" ");
-            switch(line[0]) {
+            switch (line[0]) {
                 case "push":
                     stack.push((Integer.parseInt(line[1])));
                     break;
                 case "pop":
-                    if(stack.isEmpty()) {
+                    if (stack.isEmpty()) {
                         System.out.println(-1);
                     } else {
                         System.out.println(stack.pop());
@@ -30,7 +30,7 @@ public class Main_10828 {
                     System.out.println(stack.isEmpty() ? 1 : 0);
                     break;
                 case "top":
-                    if(stack.isEmpty()) {
+                    if (stack.isEmpty()) {
                         System.out.println(-1);
                     } else {
                         System.out.println(stack.peek());
