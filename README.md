@@ -48,11 +48,11 @@
 
 ## 목차💻
 * **1. 자료구조 1**
- 	 - [ ] [스택](https://www.acmicpc.net/problem/10828) 
- 	 - [ ] [단어 뒤집기](https://www.acmicpc.net/problem/9093) 
- 	 - [ ] [괄호](https://www.acmicpc.net/problem/9012) 
- 	 - [ ] [스택 수열](https://www.acmicpc.net/problem/1874) 
-	 - [ ] [에디터](https://www.acmicpc.net/problem/1406) 
+ 	 - [x] [스택](https://www.acmicpc.net/problem/10828) 
+ 	 - [x] [단어 뒤집기](https://www.acmicpc.net/problem/9093) 
+ 	 - [x] [괄호](https://www.acmicpc.net/problem/9012) 
+ 	 - [x] [스택 수열](https://www.acmicpc.net/problem/1874) 
+	 - [x] [에디터](https://www.acmicpc.net/problem/1406) 
 	 - [ ] [조세퍼스 문제](https://www.acmicpc.net/problem/1158) 
 
 * 1.1. 자료구조 1 (연습)
