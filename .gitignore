@@ -29,5 +29,6 @@ out/
 ### VS Code ###
 .vscode/
 
-### Mac Os ###
+### Etc ###
 .DS_Store
+.venv
