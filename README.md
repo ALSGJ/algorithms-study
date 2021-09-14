@@ -53,13 +53,13 @@
  	 - [x] [괄호](https://www.acmicpc.net/problem/9012) 
  	 - [x] [스택 수열](https://www.acmicpc.net/problem/1874) 
 	 - [x] [에디터](https://www.acmicpc.net/problem/1406) 
-	 - [ ] [요세푸스 문제](https://www.acmicpc.net/problem/1158) 
+	 - [x] [요세푸스 문제](https://www.acmicpc.net/problem/1158) 
 
 * 1.1. 자료구조 1 (연습)
-	 - [ ] [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) 
-	 - [ ] [쇠막대기](https://www.acmicpc.net/problem/10799) 
-	 - [ ] [오큰수](https://www.acmicpc.net/problem/17298) 
-	 - [ ] [오등큰수](https://www.acmicpc.net/problem/17299) 
+	 - [x] [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) 
+	 - [x] [쇠막대기](https://www.acmicpc.net/problem/10799) 
+	 - [x] [오큰수](https://www.acmicpc.net/problem/17298) 
+	 - [x] [오등큰수](https://www.acmicpc.net/problem/17299) 
 
 * 1.2. 자료구조 1 (참고)
 	 - [ ] [후위 표기식2](https://www.acmicpc.net/problem/1935) 
