@@ -8,7 +8,7 @@ for _ in range(n):
     if commands[0] == 'push':
         stack.append(commands[1])
     elif commands[0] == 'pop':
-        if len(stack):
+        if stack: # stack만 해도 True, False 체크 가능하다.
             print(stack.pop())
         else:
             print(-1)
